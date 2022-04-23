@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Fellowship_Internship\FileIoOperationDemo\FileIoOperationDemo\bin\Debug\net6.0\FileIoOperationDemo.exe
+C:\Users\DELL\Desktop\Fellowship_Internship\FileIoOperationDemo\FileIoOperationDemo\bin\Debug\net6.0\FileIoOperationDemo.deps.json
+C:\Users\DELL\Desktop\Fellowship_Internship\FileIoOperationDemo\FileIoOperationDemo\bin\Debug\net6.0\FileIoOperationDemo.runtimeconfig.json
+C:\Users\DELL\Desktop\Fellowship_Internship\FileIoOperationDemo\FileIoOperationDemo\bin\Debug\net6.0\FileIoOperationDemo.dll
+C:\Users\DELL\Desktop\Fellowship_Internship\FileIoOperationDemo\FileIoOperationDemo\bin\Debug\net6.0\FileIoOperationDemo.pdb
+C:\Users\DELL\Desktop\Fellowship_Internship\FileIoOperationDemo\FileIoOperationDemo\obj\Debug\net6.0\FileIoOperationDemo.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Fellowship_Internship\FileIoOperationDemo\FileIoOperationDemo\obj\Debug\net6.0\FileIoOperationDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Fellowship_Internship\FileIoOperationDemo\FileIoOperationDemo\obj\Debug\net6.0\FileIoOperationDemo.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Fellowship_Internship\FileIoOperationDemo\FileIoOperationDemo\obj\Debug\net6.0\FileIoOperationDemo.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Fellowship_Internship\FileIoOperationDemo\FileIoOperationDemo\obj\Debug\net6.0\FileIoOperationDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Fellowship_Internship\FileIoOperationDemo\FileIoOperationDemo\obj\Debug\net6.0\FileIoOperationDemo.dll
+C:\Users\DELL\Desktop\Fellowship_Internship\FileIoOperationDemo\FileIoOperationDemo\obj\Debug\net6.0\refint\FileIoOperationDemo.dll
+C:\Users\DELL\Desktop\Fellowship_Internship\FileIoOperationDemo\FileIoOperationDemo\obj\Debug\net6.0\FileIoOperationDemo.pdb
+C:\Users\DELL\Desktop\Fellowship_Internship\FileIoOperationDemo\FileIoOperationDemo\obj\Debug\net6.0\FileIoOperationDemo.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Fellowship_Internship\FileIoOperationDemo\FileIoOperationDemo\obj\Debug\net6.0\ref\FileIoOperationDemo.dll
